@@ -14,7 +14,3 @@ Run the application with the following:
 ```sh
 $ ./smtpc <hostname> <debug flag: 0/1>
 ```
-
-Credits
--------
-Author: Darian Lepert
